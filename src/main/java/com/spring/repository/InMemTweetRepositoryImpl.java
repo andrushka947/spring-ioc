@@ -1,8 +1,7 @@
-package ua.allugard.repository;
+package com.spring.repository;
 
-import ua.allugard.domain.Tweet;
+import com.spring.domain.Tweet;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 

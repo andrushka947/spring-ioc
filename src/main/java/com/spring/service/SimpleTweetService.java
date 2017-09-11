@@ -1,7 +1,7 @@
-package ua.allugard.service;
+package com.spring.service;
 
-import ua.allugard.domain.Tweet;
-import ua.allugard.repository.TweetRepository;
+import com.spring.domain.Tweet;
+import com.spring.repository.TweetRepository;
 
 public class SimpleTweetService implements TweetService {
 

@@ -1,8 +1,6 @@
-package ua.allugard.ioc;
+package com.spring.ioc;
 
 import java.lang.reflect.Constructor;
-import java.lang.reflect.InvocationTargetException;
-import java.lang.reflect.Parameter;
 import java.util.*;
 
 public class ApplicationContext implements Context {

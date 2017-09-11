@@ -1,4 +1,4 @@
-package ua.allugard.ioc;
+package com.spring.ioc;
 
 import java.util.Map;
 

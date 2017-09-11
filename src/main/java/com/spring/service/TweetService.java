@@ -1,6 +1,6 @@
-package ua.allugard.service;
+package com.spring.service;
 
-import ua.allugard.domain.Tweet;
+import com.spring.domain.Tweet;
 
 public interface TweetService {
     Iterable<Tweet> allTweets();

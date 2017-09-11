@@ -1,13 +1,13 @@
-package ua.allugard;
+package com.spring;
 
-import ua.allugard.ioc.ApplicationContext;
-import ua.allugard.ioc.Config;
-import ua.allugard.ioc.Context;
-import ua.allugard.ioc.JavaMapConfig;
-import ua.allugard.repository.InMemTweetRepositoryImpl;
-import ua.allugard.repository.TweetRepository;
-import ua.allugard.service.SimpleTweetService;
-import ua.allugard.service.TweetService;
+import com.spring.ioc.ApplicationContext;
+import com.spring.ioc.Config;
+import com.spring.ioc.Context;
+import com.spring.repository.InMemTweetRepositoryImpl;
+import com.spring.repository.TweetRepository;
+import com.spring.service.SimpleTweetService;
+import com.spring.service.TweetService;
+import com.spring.ioc.JavaMapConfig;
 
 import java.util.HashMap;
 import java.util.Map;

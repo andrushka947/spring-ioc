@@ -1,4 +1,4 @@
-package ua.allugard.ioc;
+package com.spring.ioc;
 
 public interface Config {
 
