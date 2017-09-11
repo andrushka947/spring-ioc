@@ -1,6 +1,6 @@
-package com.epam.service;
+package ua.allugard.service;
 
-import com.epam.domain.Tweet;
+import ua.allugard.domain.Tweet;
 
 public interface TweetService {
     Iterable<Tweet> allTweets();

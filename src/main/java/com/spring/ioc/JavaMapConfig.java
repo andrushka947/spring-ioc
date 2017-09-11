@@ -1,4 +1,4 @@
-package com.epam.ioc;
+package ua.allugard.ioc;
 
 import java.util.Map;
 

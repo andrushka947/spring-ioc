@@ -1,7 +1,7 @@
-package com.epam.service;
+package ua.allugard.service;
 
-import com.epam.domain.Tweet;
-import com.epam.repository.TweetRepository;
+import ua.allugard.domain.Tweet;
+import ua.allugard.repository.TweetRepository;
 
 public class SimpleTweetService implements TweetService {
 

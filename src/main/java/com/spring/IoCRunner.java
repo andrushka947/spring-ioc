@@ -1,13 +1,13 @@
-package com.epam;
+package ua.allugard;
 
-import com.epam.ioc.ApplicationContext;
-import com.epam.ioc.Config;
-import com.epam.ioc.Context;
-import com.epam.repository.InMemTweetRepositoryImpl;
-import com.epam.repository.TweetRepository;
-import com.epam.service.SimpleTweetService;
-import com.epam.service.TweetService;
-import com.epam.ioc.JavaMapConfig;
+import ua.allugard.ioc.ApplicationContext;
+import ua.allugard.ioc.Config;
+import ua.allugard.ioc.Context;
+import ua.allugard.ioc.JavaMapConfig;
+import ua.allugard.repository.InMemTweetRepositoryImpl;
+import ua.allugard.repository.TweetRepository;
+import ua.allugard.service.SimpleTweetService;
+import ua.allugard.service.TweetService;
 
 import java.util.HashMap;
 import java.util.Map;

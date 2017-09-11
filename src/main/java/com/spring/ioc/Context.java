@@ -1,4 +1,4 @@
-package com.epam.ioc;
+package ua.allugard.ioc;
 
 public interface Context {
     Object getBean(String beanName);

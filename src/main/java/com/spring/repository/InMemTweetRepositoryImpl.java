@@ -1,7 +1,8 @@
-package com.epam.repository;
+package ua.allugard.repository;
 
-import com.epam.domain.Tweet;
+import ua.allugard.domain.Tweet;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 

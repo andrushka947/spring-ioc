@@ -1,6 +1,6 @@
-package com.epam.repository;
+package ua.allugard.repository;
 
-import com.epam.domain.Tweet;
+import ua.allugard.domain.Tweet;
 
 public interface TweetRepository {
 
