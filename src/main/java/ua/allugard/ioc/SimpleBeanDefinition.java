@@ -1,4 +1,4 @@
-package ua.allugard.ioc;
+package com.epam.ioc;
 
 public class SimpleBeanDefinition implements BeanDefinition {
     private final String beanName;

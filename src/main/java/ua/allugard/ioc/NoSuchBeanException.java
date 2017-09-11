@@ -1,4 +1,4 @@
-package ua.allugard.ioc;
+package com.epam.ioc;
 
 public class NoSuchBeanException extends RuntimeException {
     public NoSuchBeanException() {

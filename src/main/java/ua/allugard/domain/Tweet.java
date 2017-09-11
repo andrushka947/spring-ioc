@@ -1,4 +1,4 @@
-package ua.allugard.domain;
+package com.epam.domain;
 
 public class Tweet {
 
